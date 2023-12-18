@@ -3,8 +3,7 @@ description: 💡 Suggest an idea for this project
 title: "[💡 FEATURE REQUEST]: "
 labels: ["C-feature-request"]
 assignees:
-  - butschster
-  - roxblnfk
+  - msmakouz
 body:
   - type: markdown
     attributes:
