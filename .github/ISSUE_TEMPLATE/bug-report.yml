@@ -3,8 +3,7 @@ description: 🐛 File a bug report
 title: "[🐛 BUG]: "
 labels: ["B-bug", "F-need-verification"]
 assignees:
-  - butschster
-  - roxblnfk
+  - msmakouz
 body:
   - type: markdown
     attributes:
