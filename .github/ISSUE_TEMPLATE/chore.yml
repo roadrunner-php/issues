@@ -3,8 +3,7 @@ description: 🧹 Enhancement or chore of the existing code
 title: "[🧹 CHORE]: "
 labels: ["C-enhancement"]
 assignees:
-  - butschster
-  - roxblnfk
+  - msmakouz
 body:
   - type: markdown
     attributes:
